@@ -1,0 +1,11 @@
+name: Triage
+
+on:
+  issue_comment:
+    types:
+      - created
+      - edited
+
+jobs:
+  assign:
+    uses: depsdev/hot/.github/workflows/triage.yml@main

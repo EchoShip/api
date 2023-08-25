@@ -10,7 +10,7 @@ on:
 
 jobs:
   test:
-    uses: depsdev/hot/.github/workflows/development.yml@main
+    uses: open-sauced/hot/.github/workflows/development.yml@main
 
   build:
     name: Build application

@@ -1,13 +1,3 @@
-<div align="center">
-  <br>
-  <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
-  <h1>🍕 Open Sauced Insights API 🍕</h1>
-  <strong>The path to your next Open Source contribution</strong>
-  <br>
-  <br>
-  <a href="https://www.digitalocean.com/?refcode=c65a90d0956d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
-</div>
-<br>
 <p align="center">
   <img src="https://img.shields.io/github/languages/code-size/depsdev/depsdev.github.io/api" alt="GitHub code size in bytes">
   <img src="https://img.shields.io/github/commit-activity/w/depsdev/depsdev.github.io/api" alt="GitHub commit activity">
